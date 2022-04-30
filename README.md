@@ -2,3 +2,4 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-sob-cur-alg-log-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
