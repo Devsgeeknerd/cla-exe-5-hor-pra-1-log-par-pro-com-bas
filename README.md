@@ -37,7 +37,7 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
