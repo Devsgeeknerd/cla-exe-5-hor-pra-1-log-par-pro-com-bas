@@ -15,7 +15,7 @@
   <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
   <!-- * [Recursos uteis](#recursos-uteis) -->
 <!-- * [Autores](#autores) -->
-* [Agradecimentos](#agradecimentos)
+<!-- * [Agradecimentos](#agradecimentos) -->
 * []()
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-sob-cur-apr-alg-log-par-pro-bas-ava&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
