@@ -41,8 +41,8 @@
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
