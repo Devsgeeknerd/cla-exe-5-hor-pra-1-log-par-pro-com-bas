@@ -6,6 +6,7 @@
 * Apresentação do curso em geral:
   * Lógica para programação;
   * Algoritmos;
+  * Constantes, variáveis e tipos de dados;
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
