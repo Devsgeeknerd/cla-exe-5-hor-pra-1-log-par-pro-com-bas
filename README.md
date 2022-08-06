@@ -8,6 +8,7 @@
   * Algoritmos;
   * Constantes, variáveis e tipos de dados;
   * Operadores;
+  * Estruturas de decisão e de repetição;
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
