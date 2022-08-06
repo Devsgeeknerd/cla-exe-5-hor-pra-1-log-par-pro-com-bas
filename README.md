@@ -10,6 +10,7 @@
   * Operadores;
   * Estruturas de decisão e de repetição;
   * Variáveis compostas;
+  * Implementação passo a passo de 29 algoritmos estudados durante o curso em 4 linguagens e uma ferramenta.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
