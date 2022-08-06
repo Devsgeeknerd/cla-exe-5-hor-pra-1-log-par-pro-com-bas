@@ -9,6 +9,7 @@
   * Constantes, variáveis e tipos de dados;
   * Operadores;
   * Estruturas de decisão e de repetição;
+  * Variáveis compostas;
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
