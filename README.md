@@ -7,6 +7,7 @@
   * Lógica para programação;
   * Algoritmos;
   * Constantes, variáveis e tipos de dados;
+  * Operadores;
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
