@@ -5,6 +5,7 @@
 
 * Apresentação do curso em geral:
   * Lógica para programação;
+  * Algoritmos;
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## Tabela de conteúdos -->
