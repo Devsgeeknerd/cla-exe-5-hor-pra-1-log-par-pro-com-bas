@@ -12,8 +12,8 @@
   * Variáveis compostas;
   * Implementação passo a passo de 29 algoritmos estudados durante o curso em 4 linguagens e uma ferramenta.
 
-<!-- TABLE OF CONTENTS -->
-<!-- ## Tabela de conteúdos -->
+<!-- Table of Contents -->
+<!-- ## Table de Conteúdos -->
 
 <!-- * [Vista por cima](#vista-por-cima) -->
   <!-- * [Foto da tela](#foto-da-tela) -->
@@ -27,39 +27,39 @@
 <!-- * [Agradecimentos](#agradecimentos) -->
 <!-- * [Informações](#informações) -->
 
-<!-- OVERVIEW -->
-<!-- ## Vista por cima -->
-<!-- SCREENSHOT -->
-<!-- ### Foto da tela -->
+<!-- Overview-->
+<!-- ## Vista por Cima -->
+<!-- Screenshot -->
+<!-- ### Foto da Tela -->
 <!-- Links -->
 <!-- ### Links -->
-<!-- My process -->
-<!-- ## Meu processo -->
+<!-- My Process -->
+<!-- ## Meu Processo -->
 <!-- Built with -->
 <!-- ### Construido com -->
-<!-- What I learned -->
-<!-- ### o que aprendi -->
-<!-- Continued development -->
-<!-- Desenvolvimento continuo -->
-<!-- Useful resources -->
-<!-- ### Recursos uteis -->
+<!-- What I Learned -->
+<!-- ### O que Aprendi -->
+<!-- Continued Development -->
+<!-- ### Desenvolvimento Continuo -->
+<!-- Useful Resources -->
+<!-- ### Recursos Uteis -->
 <!-- Authors -->
 <!-- ## Autores -->
 <!-- Acknowledgments -->
 <!-- ## Agradecimentos -->
-<!-- Informações -->
+<!-- Information -->
 ## Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-sob-cur-apr-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-sob-cur-apr-alg-log-par-pro-bas-ava?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
